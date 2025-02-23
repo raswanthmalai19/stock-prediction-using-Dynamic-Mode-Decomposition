@@ -1,4 +1,4 @@
- Stock Prediction Using Dynamic Mode Decomposition (DMD) in MATLAB
+### Stock Prediction Using Dynamic Mode Decomposition (DMD) in MATLAB
 
 This repository contains a MATLAB implementation of stock price prediction using **Dynamic Mode Decomposition (DMD)**. DMD is a data-driven method for analyzing complex systems, which can capture patterns and trends in time-series data. By leveraging DMD, this project aims to model and forecast stock price movements.
 
